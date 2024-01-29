@@ -1,4 +1,4 @@
-#Heading 1#
+# How to run #
 * Install JsonServer in https://github.com/typicode/json-server
 * npm i (install) json-server
 * Create a db.json (add whatever you want in this db)
